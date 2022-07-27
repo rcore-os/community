@@ -1,10 +1,9 @@
 ## Welcome to rCore-OS Community
 项目地址：
-https://github.com/rcore-os/
+<https://github.com/rcore-os/>
 
 项目主页：
-https://rcore-os.cn/
-
+<https://rcore-os.cn/>
 ## 从哪里开始入手？
 
 如果是一位 rCore-OS 新手，建议从以下步骤开始
@@ -210,7 +209,7 @@ rCore-OS 社区的技术管理机构，负责 rCore-OS 社区相关的技术类�
 - 可以对社区运营方向建议以及推进；
 - 获得 rCore-OS 布道师勋章；
 
-\2. Ambassador
+**2. Ambassador**
 
 **如何成为 Ambassador：**
 
@@ -227,7 +226,7 @@ rCore-OS 社区的技术管理机构，负责 rCore-OS 社区相关的技术类�
 
 - 获得 rCore-OS 相关周边。
 
-\3. 社区管理者
+**3. 社区管理者**
 
 **如何成为社区管理者：**
 
